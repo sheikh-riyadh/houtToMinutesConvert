@@ -1,3 +1,5 @@
+
+
 function getMinutes(hour) {
     let minutes = hour * 60;
     return minutes;
